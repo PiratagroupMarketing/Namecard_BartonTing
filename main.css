@@ -126,6 +126,7 @@ img.profile-pic {
 
 .banner {
 	height: 38%;
+	overflow: hidden;
 }
 
 .primary-info {
